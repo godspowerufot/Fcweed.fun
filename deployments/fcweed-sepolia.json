@@ -1,8 +1,0 @@
-{
-  "network": "sepolia",
-  "fcweedToken": "0x96a986C5996068fb77486076Af7A8A884bc6E214",
-  "deployer": "0x46f5545C03D6c9b831F5fB4fC0A6b54356689641",
-  "totalSupply": "1000000000.0",
-  "timestamp": "2025-12-14T00:02:25.328Z",
-  "blockNumber": 9834955
-}

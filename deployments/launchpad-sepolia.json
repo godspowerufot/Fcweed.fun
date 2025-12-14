@@ -1,9 +1,0 @@
-{
-  "network": "sepolia",
-  "launchpadFactory": "0x23d496D7Ae68bF9f9FBf97bB9c0d3c3E25964328",
-  "fcweedToken": "0x96a986C5996068fb77486076Af7A8A884bc6E214",
-  "uniswapRouter": "0xC532a74256D3Db42D0Bf7a0400fEFDbad7694008",
-  "deployer": "0x46f5545C03D6c9b831F5fB4fC0A6b54356689641",
-  "timestamp": "2025-12-14T14:04:03.688Z",
-  "blockNumber": 9839155
-}
